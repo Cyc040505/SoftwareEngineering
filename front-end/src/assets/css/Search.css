@@ -1,0 +1,46 @@
+.product {
+    margin-top: 5px;
+    border-top: 1px solid purple;
+}
+.product a {
+    text-decoration: none;
+    color: grey;
+    font-size: 20px;
+    line-height: 30px;
+}
+.product a:hover {
+    color: #FF8000;
+    text-decoration: underline;
+}
+.searchbox span {
+    margin-top: 5px;
+    border-top: 1px solid purple;
+    color: grey;
+    font-size: 20px;
+    line-height: 30px;
+    display: block;
+}
+.searchbox {
+    width: 1300px;
+    margin: auto;
+}
+.product-list {
+    text-align: left;
+}
+.product-list strong {
+    margin: 3% auto;
+    font-size: 30px;
+    font-family: "微软雅黑";
+    color: #FF8000;
+    font-weight: normal;
+}
+.l {
+    width: 630px;
+    float: left;
+    margin-top: 1%;
+}
+.r {
+    width: 650px;
+    float: right;
+    margin-top: 1%;
+}
